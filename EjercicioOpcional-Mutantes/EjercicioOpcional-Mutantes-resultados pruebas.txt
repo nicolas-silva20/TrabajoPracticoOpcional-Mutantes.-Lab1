@@ -1,0 +1,97 @@
+PRUEBA 1:
+
+Ingresa la fila 1 de ADN (6 letras de A, C, G o T):
+TATCGA
+Ingresa la fila 2 de ADN (6 letras de A, C, G o T):
+GCAGTG
+Ingresa la fila 3 de ADN (6 letras de A, C, G o T):
+TGGAGC
+Ingresa la fila 4 de ADN (6 letras de A, C, G o T):
+TGGTAT
+Ingresa la fila 5 de ADN (6 letras de A, C, G o T):
+TCGACT
+Ingresa la fila 6 de ADN (6 letras de A, C, G o T):
+TCATCG
+Es un mutante: true
+Matriz de ADN:
+TATCGA
+GCAGTG
+TGGAGC
+TGGTAT
+TCGACT
+TCATCG
+
+
+
+PRUEBA 2:
+Ingresa la fila 1 de ADN (6 letras de A, C, G o T):
+TATCGA
+Ingresa la fila 2 de ADN (6 letras de A, C, G o T):
+GTGACG
+Ingresa la fila 3 de ADN (6 letras de A, C, G o T):
+CGAGGT
+Ingresa la fila 4 de ADN (6 letras de A, C, G o T):
+TATGGT
+Ingresa la fila 5 de ADN (6 letras de A, C, G o T):
+TCAGCT
+Ingresa la fila 6 de ADN (6 letras de A, C, G o T):
+GCTACT
+Es un mutante: true
+Matriz de ADN:
+TATCGA
+GTGACG
+CGAGGT
+TATGGT
+TCAGCT
+GCTACT
+
+
+
+PRUEBA 3:
+Ingresa la fila 1 de ADN (6 letras de A, C, G o T):
+TCGAGT
+Ingresa la fila 2 de ADN (6 letras de A, C, G o T):
+TCGTA
+Entrada inválida. Debe contener exactamente 6 letras de A, C, G o T.
+Ingresa la fila 2 de ADN (6 letras de A, C, G o T):
+TGCTAG
+Ingresa la fila 3 de ADN (6 letras de A, C, G o T):
+AGTCAT
+Ingresa la fila 4 de ADN (6 letras de A, C, G o T):
+CATTAG
+Ingresa la fila 5 de ADN (6 letras de A, C, G o T):
+GTAATG
+Ingresa la fila 6 de ADN (6 letras de A, C, G o T):
+AGTCGA
+Es un mutante: false
+Matriz de ADN:
+TCGAGT
+TGCTAG
+AGTCAT
+CATTAG
+GTAATG
+AGTCGA
+
+
+
+PRUEBA 4:
+Ingresa la fila 1 de ADN (6 letras de A, C, G o T):
+ATGCGA
+Ingresa la fila 2 de ADN (6 letras de A, C, G o T):
+CAGTGC
+Ingresa la fila 3 de ADN (6 letras de A, C, G o T):
+TTATTT
+Ingresa la fila 4 de ADN (6 letras de A, C, G o T):
+AGACGG
+Ingresa la fila 5 de ADN (6 letras de A, C, G o T):
+GCGTCA
+Ingresa la fila 6 de ADN (6 letras de A, C, G o T):
+TCACTG
+Es un mutante: false
+Matriz de ADN:
+ATGCGA
+CAGTGC
+TTATTT
+AGACGG
+GCGTCA
+TCACTG
